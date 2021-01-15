@@ -19,7 +19,7 @@ public:
 private:
 	void setup() override;
 
-	// user input
+	// user input (from InputListener events)
 	bool keyPressed(KeyboardEvent const & evt) override;
 	bool keyReleased(KeyboardEvent const & evt) override;
 	bool mouseMoved(MouseMotionEvent const & evt) override;
