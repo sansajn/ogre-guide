@@ -1,0 +1,5 @@
+/*.o
+/.sconsign.dblite
+/cube_rain
+/moving-objects.*
+/imgui.ini
